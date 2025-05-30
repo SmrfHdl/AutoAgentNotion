@@ -81,6 +81,10 @@ streamlit run app/frontend/streamlit_app.py
    - Thêm column "Name" kiểu Title
    - Share database với integration (click "..." -> "Add connections")
    - Copy Database ID từ URL (phần giữa workspace và ?)
+  
+## Demo 
+
+https://github.com/user-attachments/assets/3197a226-c1bf-44ae-9893-61c64696e8a3
 
 ## Deployment
 
